@@ -11,9 +11,9 @@
         <link href="css/style.css" rel="stylesheet">
         <link href="css/scrolling-nav" rel="stylesheet">
     </head>
-    <body>
+    <body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
 
-        <nav class="navbar navbar-default navbar-fixed-top">
+        <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
             <div class="container">
                 <div class="navbar-header">
                     <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
@@ -22,24 +22,54 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
-                    <a class="navbar-brand" href="#">Folio</a>
+                    <a class="navbar-brand" href="#">JM</a>
                 </div>
                 <div class="collapse navbar-collapse navbar-right" id="nav">
                     <ul class="nav navbar-nav">
                         <li>
-                            <a href="#">About</a>
-                        </li>
-                        <li class="active">
-                            <a href="#">Porfolio</a>
+                            <a class="page-scroll" href="#about">About</a>
                         </li>
                         <li>
-                            <a href="#">Contact</a>
+                            <a class="page-scroll" href="#folio">Portfolio</a>
+                        </li>
+                        <li>
+                            <a class="page-scroll" href="#contact">Contact</a>
                         </li>
                     </ul>
                 </div>
             </div>
         </nav>
 
+        <!-- About Section -->
+        <section id="about" class="about-section">
+          <div class="col-lg-12 subtitle row">
+              <div class="container">
+                  <h1 class="page-header">About
+                      <small>Decouvrez moi</small>
+                  </h1>
+                    </div>
+                </div>
+                <div class="container">
+                <p>
+                  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                  Sed interdum et sem sit amet accumsan. Quisque condimentum tempor lorem, ac dignissim lacus tempus quis.
+                  Quisque ultrices tempus magna, eu fringilla nibh ullamcorper et.
+                  In sollicitudin, neque ut dapibus rutrum, erat tellus faucibus felis, non dignissim nulla tellus lacinia nibh.
+                  In hac habitasse platea dictumst. Curabitur id porttitor justo. Cras a ipsum vehicula, faucibus leo ut, commodo felis.
+                  Nulla bibendum turpis non congue pretium. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                  Vivamus condimentum hendrerit sem, vitae tempus urna vehicula quis.
+                  Pellentesque at quam rutrum, consectetur lacus nec, lobortis nibh.
+
+                  Cras nulla lacus, tristique vel tempor egestas, fermentum in nunc.
+                  Donec vel consequat ipsum. Fusce consequat eu massa et interdum.
+                  Nullam ac lacus vitae libero luctus aliquet ut ut dui.
+                  Quisque et nibh in eros porta ullamcorper.
+                  Mauris et diam at felis rutrum cursus. Praesent et viverra eros, in tincidunt lacus.
+                </p>
+              </div>
+        </section>
+
+<section id="folio" class="services-section">
         <div class="col-lg-12 subtitle row">
             <div class="container">
                 <h1 class="page-header">Portfolio
@@ -47,6 +77,7 @@
                 </h1>
             </div>
         </div>
+</section>
 
         <div class="container">
             <div class="row">
@@ -344,7 +375,37 @@
                     </div>
                 </div>
                 <!--Sorti site-->
+              </div>
             </div>
+              <!-- Contact Section -->
+              <section id="contact" class="contact-section">
+                <div class="col-lg-12 subtitle row">
+                    <div class="container">
+                        <h1 class="page-header">Contact
+                            <small>Contact moi</small>
+                        </h1>
+                          </div>
+                      </div>
+                      <div class="container">
+                        <p>
+                          Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                          Sed interdum et sem sit amet accumsan. Quisque condimentum tempor lorem, ac dignissim lacus tempus quis.
+                          Quisque ultrices tempus magna, eu fringilla nibh ullamcorper et.
+                          In sollicitudin, neque ut dapibus rutrum, erat tellus faucibus felis, non dignissim nulla tellus lacinia nibh.
+                          In hac habitasse platea dictumst. Curabitur id porttitor justo. Cras a ipsum vehicula, faucibus leo ut, commodo felis.
+                          Nulla bibendum turpis non congue pretium. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                          Vivamus condimentum hendrerit sem, vitae tempus urna vehicula quis.
+                          Pellentesque at quam rutrum, consectetur lacus nec, lobortis nibh.
+
+                          Cras nulla lacus, tristique vel tempor egestas, fermentum in nunc.
+                          Donec vel consequat ipsum. Fusce consequat eu massa et interdum.
+                          Nullam ac lacus vitae libero luctus aliquet ut ut dui.
+                          Quisque et nibh in eros porta ullamcorper.
+                          Mauris et diam at felis rutrum cursus. Praesent et viverra eros, in tincidunt lacus.
+                        </p>
+                      </div>
+              </section>
+
             <hr>
             <footer>
                 <div class="row">
