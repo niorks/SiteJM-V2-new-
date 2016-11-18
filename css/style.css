@@ -88,6 +88,13 @@ h1.page-header small {
     font-family: 14px;
 }
 
+.me {
+  position: relative;
+  margin:0px auto;
+  right:-250px;
+  bottom:210px;
+}
+
 .portfolio {
     margin: 25px 0;
 }
@@ -170,9 +177,8 @@ span.label.label-info {
 
 /*formulaire de contact */
 
-.content {
+.contact {
     position: relative;
-    left: 370px;
     margin: auto;
     width: 400px;
     padding: 50px;
