@@ -89,10 +89,9 @@ h1.page-header small {
 }
 
 .me {
-  position: relative;
-  margin:0px auto;
-  right:-250px;
-  bottom:210px;
+    margin: 0px auto;
+    right: -250px;
+    bottom: 210px;
 }
 
 .portfolio {
@@ -192,6 +191,8 @@ input:required, textarea:required {
     -o-box-shadow: none;
     box-shadow: none;
 }
+
+
 /** inputs and textarea**/
 
 input:not([type="submit"]), textarea {
