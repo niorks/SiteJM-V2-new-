@@ -177,7 +177,7 @@ span.label.label-info {
 /*formulaire de contact */
 
 .contact {
-    position: relative;
+    /*position: relative;*/
     margin: auto;
     width: 400px;
     padding: 50px;
