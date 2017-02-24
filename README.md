@@ -1,6 +1,6 @@
 # SiteJM-V2-new-
 <p>
-<h2>nouveua site julianmasssart.fr</h2>
+<strong>nouveua site julianmasssart.fr</strong>
 </p>
 <p>
 ajout du carousel Countdown rings
