@@ -182,6 +182,7 @@ span.label.label-info {
     width: 400px;
     padding: 50px;
     z-index: 99;
+    display: block;
     /* box-shadow:0px 0px 6px #3F3F3F */
 }
 
@@ -255,6 +256,7 @@ input[type=submit] {
     border-radius: 5px;
     box-shadow: 0px 1px 1px #FFF inset, 0 0 0px 5px #EAEAEA;
     transition: all 0.2s linear;
+    display: block;
 }
 
 input[type=submit]:hover {
