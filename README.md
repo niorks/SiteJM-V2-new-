@@ -3,14 +3,14 @@
 <strong>Nouveau site <a href='http://julianmassart.fr'>julianmasssart</a></strong>
 </p>
   <p>
-  - Ajout du carousel Countdown rings
+  - Ajout du carousel Countdown rings.
   </p>
   <p>
-  - Ajout scrolling-nav et one-page avec bootstrap
+  - Ajout scrolling-nav et one-page avec bootstrap.
   </p>
   <p>
-  - Cherche a regle les quelques bug pour le media au niveau de contact et du menu deroulant
+  - Cherche a regle les quelques bug pour le media au niveau de contact et du menu deroulant.
   </p>
   <p>
-  - Voir le menu en mode media bug il ne s'ouvre pas du tout
+  - Voir le menu en mode media bug il ne s'ouvre pas du tout.
   </P> 
