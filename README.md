@@ -12,5 +12,5 @@
   - Cherche a regle les quelques bug pour le media au niveau de contact et du menu deroulant.
   </p>
   <p>
-  - Voir le menu en mode media bug il ne s'ouvre pas du tout.
+  - Voir le menu en mode media, il ne s'ouvre pas du tout.
   </P> 
