@@ -6,7 +6,7 @@
   - Ajout du carousel Countdown rings.
   </p>
   <p>
-  - Ajout scrolling-nav et one-page avec bootstrap.
+  - Ajouter scrolling-nav et one-page avec bootstrap.
   </p>
   <p>
   - Cherche a réglé les quelques bugs pour le médias au niveau de contact et du menu déroulant.
