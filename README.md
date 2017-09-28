@@ -9,7 +9,7 @@
   - Ajout scrolling-nav et one-page avec bootstrap.
   </p>
   <p>
-  - Cherche a regle les quelques bug pour le media au niveau de contact et du menu deroulant.
+  - Cherche a réglé les quelques bugs pour le médias au niveau de contact et du menu déroulant.
   </p>
   <p>
   - Voir le menu en mode media, il ne s'ouvre pas du tout.
