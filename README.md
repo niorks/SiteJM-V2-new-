@@ -3,7 +3,7 @@
 <strong>Nouveau site <a href='http://julianmassart.fr'>julianmasssart</a></strong>
 </p>
   <p>
-  - Ajout du carousel Countdown rings.
+  - Ajouter du carousel Countdown rings.
   </p>
   <p>
   - Ajouter scrolling-nav et one-page avec bootstrap.
