@@ -3,7 +3,7 @@
 <strong>Nouveau site <a href='http://julianmassart.fr'>julianmasssart</a></strong>
 </ul>
   <p>
-  - mise a jour du site du a bootstrap 4.
+  - Mise a jour du site du a bootstrap 4.
   </p>
   <p>
   <strike>- Ajouter du carousel Countdown rings.</strike>
