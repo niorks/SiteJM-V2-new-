@@ -1,16 +1,19 @@
 # SiteJM-V2-new-
 <p>
 <strong>Nouveau site <a href='http://julianmassart.fr'>julianmasssart</a></strong>
-</p>
+</ul>
   <p>
-  - Ajouter du carousel Countdown rings.
+  - mise a jour du site du a bootstrap 4.
   </p>
   <p>
-  - Ajouter scrolling-nav et one-page avec bootstrap.
+  <strike>- Ajouter du carousel Countdown rings.</strike>
   </p>
   <p>
-  - Cherche a réglé les quelques bugs pour le médias au niveau de contact et du menu déroulant.
+  <strike>- Ajouter scrolling-nav et one-page avec bootstrap.</strike>
   </p>
   <p>
-  - Voir le menu en mode media, il ne s'ouvre pas du tout.
-  </P> 
+  -
+  </p>
+  <p>
+  -
+  </ul>
