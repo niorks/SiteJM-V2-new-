@@ -102,6 +102,10 @@ img:hover {
     opacity: .85;
 }
 
+.modal-body {
+
+}
+
 .scale:hover {
     /* kit */
     -webkit-transform: scale(1.05, 1.07);
@@ -173,6 +177,13 @@ span.label.label-info {
     width: 100%;
 }
 
+.modal-body {
+
+}
+
+.container-fluid {
+
+}
 
 /*formulaire de contact */
 
