@@ -94,8 +94,8 @@ a.fb {
     background: url(img/social_media.png) -256px top;
 }
 
-a.tw {
-    background: url(img/social_media.png)  -512px top;
+a.gh {
+    background: url(img/social_media.png)  0px top;
 }
 
 a.go {
@@ -110,8 +110,8 @@ section#contact li:hover a.fb {
     background: url(img/social_media.png) -256px bottom;
 }
 
-section#contact li:hover a.tw {
-    background: url(img/social_media.png) -512px bottom;
+section#contact li:hover a.gh {
+    background: url(img/social_media.png) 0px bottom;
 }
 
 section#contact li:hover a.ytube {
