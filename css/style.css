@@ -1,6 +1,6 @@
 @import url(http://fonts.googleapis.com/css?family=Quicksand:300,400,700);
 
-body {      
+body {
     font-family: 'Quicksand', sans-serif;
      position: relative;
   }
@@ -71,7 +71,7 @@ body {
 
 /* header */
 .bg {
-    background: url('img/bg-mountain-clouds.jpg') 20% 40%;
+    background: url('img/sortisite2.jpg') 20% 40%;
 }
 
 .bg-fixed {
@@ -121,5 +121,3 @@ section#contact li:hover a.ytube {
 section#contact li:hover a.go {
     background: url(img/social_media.png) -768px bottom;
 }
-
-    
